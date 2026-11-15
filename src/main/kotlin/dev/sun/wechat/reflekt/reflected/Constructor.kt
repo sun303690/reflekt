@@ -1,6 +1,6 @@
 @file:Suppress("unused")
 
-package dev.ujhhgtg.reflekt.reflected
+package dev.sun.wechat.reflekt.reflected
 
 import java.lang.reflect.Constructor
 

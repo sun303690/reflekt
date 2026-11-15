@@ -1,13 +1,13 @@
 @file:Suppress("unused", "NOTHING_TO_INLINE")
 
-package dev.ujhhgtg.reflekt
+package dev.sun.wechat.reflekt
 
-import dev.ujhhgtg.reflekt.reflected.ReflectedConstructor
-import dev.ujhhgtg.reflekt.reflected.ReflectedField
-import dev.ujhhgtg.reflekt.reflected.ReflectedMethod
-import dev.ujhhgtg.reflekt.spec.ConstructorSpec
-import dev.ujhhgtg.reflekt.spec.FieldSpec
-import dev.ujhhgtg.reflekt.spec.MethodSpec
+import dev.sun.wechat.reflekt.reflected.ReflectedConstructor
+import dev.sun.wechat.reflekt.reflected.ReflectedField
+import dev.sun.wechat.reflekt.reflected.ReflectedMethod
+import dev.sun.wechat.reflekt.spec.ConstructorSpec
+import dev.sun.wechat.reflekt.spec.FieldSpec
+import dev.sun.wechat.reflekt.spec.MethodSpec
 import kotlin.reflect.KClass
 
 inline fun <T : Any> KClass<T>.reflekt(): Reflect<T> = Reflect(java)

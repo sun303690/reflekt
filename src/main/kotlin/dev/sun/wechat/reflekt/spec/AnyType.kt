@@ -1,6 +1,6 @@
 @file:Suppress("unused")
 
-package dev.ujhhgtg.reflekt.spec
+package dev.sun.wechat.reflekt.spec
 
 data object AnyType
 

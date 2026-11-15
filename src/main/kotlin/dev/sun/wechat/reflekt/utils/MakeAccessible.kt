@@ -1,6 +1,6 @@
 @file:Suppress("NOTHING_TO_INLINE")
 
-package dev.ujhhgtg.reflekt.utils
+package dev.sun.wechat.reflekt.utils
 
 import java.lang.reflect.AccessibleObject
 

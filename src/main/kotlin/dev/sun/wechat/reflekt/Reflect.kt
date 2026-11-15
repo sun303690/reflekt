@@ -1,16 +1,16 @@
 @file:Suppress("unused")
 
-package dev.ujhhgtg.reflekt
+package dev.sun.wechat.reflekt
 
-import dev.ujhhgtg.reflekt.reflected.InstanceReflectedConstructor
-import dev.ujhhgtg.reflekt.reflected.InstanceReflectedField
-import dev.ujhhgtg.reflekt.reflected.InstanceReflectedMethod
-import dev.ujhhgtg.reflekt.reflected.ReflectedConstructor
-import dev.ujhhgtg.reflekt.reflected.ReflectedField
-import dev.ujhhgtg.reflekt.reflected.ReflectedMethod
-import dev.ujhhgtg.reflekt.spec.ConstructorSpec
-import dev.ujhhgtg.reflekt.spec.FieldSpec
-import dev.ujhhgtg.reflekt.spec.MethodSpec
+import dev.sun.wechat.reflekt.reflected.InstanceReflectedConstructor
+import dev.sun.wechat.reflekt.reflected.InstanceReflectedField
+import dev.sun.wechat.reflekt.reflected.InstanceReflectedMethod
+import dev.sun.wechat.reflekt.reflected.ReflectedConstructor
+import dev.sun.wechat.reflekt.reflected.ReflectedField
+import dev.sun.wechat.reflekt.reflected.ReflectedMethod
+import dev.sun.wechat.reflekt.spec.ConstructorSpec
+import dev.sun.wechat.reflekt.spec.FieldSpec
+import dev.sun.wechat.reflekt.spec.MethodSpec
 import java.lang.reflect.Constructor
 import java.lang.reflect.Field
 import java.lang.reflect.Method

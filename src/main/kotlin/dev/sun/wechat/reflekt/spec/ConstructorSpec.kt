@@ -1,8 +1,8 @@
 @file:Suppress("unused")
 
-package dev.ujhhgtg.reflekt.spec
+package dev.sun.wechat.reflekt.spec
 
-import dev.ujhhgtg.reflekt.utils.toModifierSet
+import dev.sun.wechat.reflekt.utils.toModifierSet
 import java.lang.reflect.Constructor
 import kotlin.reflect.KClass
 

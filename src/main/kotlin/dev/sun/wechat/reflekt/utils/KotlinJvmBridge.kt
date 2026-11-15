@@ -1,4 +1,4 @@
-package dev.ujhhgtg.reflekt.utils
+package dev.sun.wechat.reflekt.utils
 
 import java.lang.invoke.MethodType
 import java.lang.reflect.Method

@@ -1,8 +1,8 @@
 @file:Suppress("unused")
 
-package dev.ujhhgtg.reflekt.spec
+package dev.sun.wechat.reflekt.spec
 
-import dev.ujhhgtg.reflekt.utils.toClass
+import dev.sun.wechat.reflekt.utils.toClass
 import kotlin.reflect.KClass
 
 abstract class Spec {

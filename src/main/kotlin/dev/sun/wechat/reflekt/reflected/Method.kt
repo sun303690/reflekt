@@ -1,8 +1,8 @@
 @file:Suppress("unused")
 
-package dev.ujhhgtg.reflekt.reflected
+package dev.sun.wechat.reflekt.reflected
 
-import dev.ujhhgtg.reflekt.utils.makeAccessible
+import dev.sun.wechat.reflekt.utils.makeAccessible
 import java.lang.reflect.Method
 
 open class BaseReflectedMethod(open val self: Method) {

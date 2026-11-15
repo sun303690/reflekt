@@ -1,7 +1,7 @@
 @file:Suppress("unused", "MemberVisibilityCanBePrivate", "UNCHECKED_CAST", "PLATFORM_CLASS_MAPPED_TO_KOTLIN")
 @file:JvmName("ClassUtils")
 
-package dev.ujhhgtg.reflekt.utils
+package dev.sun.wechat.reflekt.utils
 
 
 import java.lang.reflect.Constructor
